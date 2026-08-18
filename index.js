@@ -3,7 +3,7 @@ const { Telegraf } = require("telegraf");
 
 const app = express();
 
-const PORT =process.env.port || 3000;
+const PORT =process.env.PORT || 3000;
 const BOT_TOKEN = "8793290142:AAFb9Luh1fW1yx4QhDAsXANU23Ig2rOg8C4";
 const GROUP_ID = 7754601367;
 
