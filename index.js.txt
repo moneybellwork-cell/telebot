@@ -4,8 +4,8 @@ const { Telegraf } = require("telegraf");
 const app = express();
 
 const PORT = 3000;
-const BOT_TOKEN = "YOUR_BOT_TOKEN";
-const GROUP_ID = -1001234567890;
+const BOT_TOKEN = "8793290142:AAFb9Luh1fW1yx4QhDAsXANU23Ig2rOg8C4";
+const GROUP_ID = 7754601367;
 
 const bot = new Telegraf(BOT_TOKEN);
 
