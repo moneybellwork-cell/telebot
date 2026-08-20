@@ -1,4 +1,5 @@
 const express = require("express");
+consst cors=require("cors");
 const { Telegraf } = require("telegraf");
 
 const app = express();
