@@ -10,7 +10,7 @@ const GROUP_ID = 7754601367;
 
 // Executive code -> executive name
 const EXECUTIVES = {
-  "EX001": "Rahul Sharma",
+  "786": "Lucky Chopra",
   "EX002": "Amit Verma",
   "EX003": "Priya Singh",
   "EX004": "Neha Patel",
