@@ -9,6 +9,7 @@ const GROUP_ID = 7754601367;
 
 const bot = new Telegraf(BOT_TOKEN);
 
+app.use(cors());
 app.use(express.json());
 
 app.post("/send", async (req, res) => {
